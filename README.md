@@ -35,6 +35,9 @@ cd PDF-Merger
 ````
 pip install PyPDF2
 ````
+- ### Insert any pdf you want to merge (e.g it can be 2-3 research paper, or normal pdf)
+
+
 - ### Run the Script
 ````
 python pdf_merger.py
