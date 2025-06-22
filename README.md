@@ -26,20 +26,20 @@ pip install PyPDF2
 - ### Save the output — write the merged content to a new .pdf file
 
 ## Steps to Run
-- ### 1. Clone the Repository
+- ### Clone the Repository
 ````
 git clone https://github.com/CodeCrafter-101/pdf-merger.git
 cd PDF-Merger
 ````
-- ### 2. Install Required Libraries
+- ### Install Required Libraries
 ````
 pip install PyPDF2
 ````
-- ### 3. Run the Script
+- ### Run the Script
 ````
 python pdf_merger.py
 ````
-- ### 4. Merged PDF
+- ### Merged PDF
     - The merged PDF will be saved with the name specified in the `output_pdf` variable.
 
 ## Notes
